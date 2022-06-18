@@ -1,0 +1,1 @@
+<center><iframe width="100%" height="500" src="<% tp.file.cursor(1) %>"  allowfullscreen></iframe></center>

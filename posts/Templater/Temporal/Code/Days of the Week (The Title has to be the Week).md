@@ -1,0 +1,7 @@
+[[<%moment(tp.file.title).format("YYYY-MM-DD")%>]]
+[[<%moment(tp.file.title).add(1, 'days').format("YYYY-MM-DD")%>]]
+[[<%moment(tp.file.title).add(2, 'days').format("YYYY-MM-DD")%>]]
+[[<%moment(tp.file.title).add(3, 'days').format("YYYY-MM-DD")%>]]
+[[<%moment(tp.file.title).add(4, 'days').format("YYYY-MM-DD")%>]]
+[[<%moment(tp.file.title).add(5, 'days').format("YYYY-MM-DD")%>]]
+[[<%moment(tp.file.title).add(6, 'days').format("YYYY-MM-DD")%>]]

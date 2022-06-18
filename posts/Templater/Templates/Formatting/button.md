@@ -1,0 +1,1 @@
+<button class="date_button_today"><%tp.file.cursor(1)%></button>

@@ -1,0 +1,1 @@
+<%moment(tp.file.title).format("Do,ddd")%>  - <%moment(tp.file.title).day(0).format("Do,ddd")%>
